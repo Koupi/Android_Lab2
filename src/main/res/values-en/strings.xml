@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess a number</string>
+    <string name="behind">"Your number is lower!"</string>
+    <string name="ahead">"Your number is bigger!"</string>
+    <string name="hit">"Right! Are you a magician?"</string>
+    <string name="play">"Let's try!"</string>
+    <string name="play_more">"Play again"</string>
+    <string name="try_to_guess">"Guess a number (1 &#8211; 100)"</string>
+    <string name="input_error">"Firstly enter a number."</string>
+    <string name="value_error">"You should enter a number between 1 and 100."</string>
+    <string name="idk">"Give up"</string>
+</resources>
